@@ -15,7 +15,7 @@
 2. 文件上传使用七牛云，发送短信使用阿里云
 3. 权限设计使用RBAC模型，重写Shiro相关实现，结合Jwt实现前后端分离功能。
 4. 使用J2Cache 实现二级缓存，便于小项目单机部署和大项目分布式部署之间的切换，当然主要是为了性能方面考虑。
-5. 使用MyBatis-Plus实现后台带码的生成及简化相关sql代码的编写。
+5. 使用MyBatis-Plus实现后台代码的生成及简化相关sql代码的编写。
 6. 前端使用开源前端框架[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)和[Ant Design Pro Vue](https://pro.loacg.com)。
 
 #### 功能说明
